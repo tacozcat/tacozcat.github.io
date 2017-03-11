@@ -1,0 +1,265 @@
+* {
+		box-sizing: border-box;
+  		margin: 0;
+
+}
+
+html {
+  				height: 100%
+ }
+
+body{
+	
+
+
+}
+
+header{
+	background: #fff;
+	margin: 0px;
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	font-size: 
+	border: 3px solid #cccccc;
+	height: 86px;
+
+}
+
+
+
+h1{
+	float: left;
+	height: 86px;
+	width: 247px;
+	background: #4aaaa5;
+	color: white;
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	font-size: 24px;
+	text-align: center;
+	padding: 20px;
+	margin-left: 200px;
+}
+
+.nav{
+	float: right;
+	/*display: inline;*/
+	width: 270px;
+	height: 65px;
+	padding: 20px
+	color: grey;
+	/*position: relative;*/
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 22px
+	/*top: 15px;
+	right: 185px;*/
+}
+
+.summary{
+	background-image: url("../images/ignasi_pattern_s.png");
+	width: 100%;
+	height: 960px;
+}
+
+.containerMain{
+	width: 960px;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	line-height: 2;
+	margin: auto;
+	border-top: 5px solid #cccccc;
+	border-bottom-width: 100%;
+
+
+
+
+}
+
+.about{
+	
+	/*width: 60%;
+	height: 40%;*/
+	float: left;
+	width: 650px;
+	height: 650px;
+	padding: 40px;
+	background: white;
+	margin: 0 auto;
+	border: 5px groove #ffeee6;	
+}
+
+/*#content{
+	position: relative;
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: 700;
+	margin: 40px;
+	color: #4aaaa5;
+
+}*/
+
+}
+
+
+	
+
+	/*background-size: 200px 150px;*/
+
+}
+
+/*#P1H{
+	width: 75px;
+	height: 75px;
+	float: left;
+	margin-left: 45px;
+	margin-right: 45px;
+	background: #4aaaa5;
+	color: white;*/
+
+	/*background-size: 200px 150px;*/
+
+}
+
+p {
+	font-size: 16px;
+	line-height: 2;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	
+
+}
+
+#profile-pic{
+	height: 300px;
+	width: 300px;
+	padding: 10px;
+	margin: 20px;
+	float: left;
+	border: 3px solid black;
+
+}
+
+aside{
+	/*position: absolute;*/
+	float: right;
+	width: 270px;
+	height: 200px;
+	background: white;
+	border: 5px groove #ffeee6;
+	/*top: 200;
+	right: 100;*/
+}
+h2{
+	font-family: "Georgia", "Times New Roman", Times, serif ;
+	font-size: 24px;
+	color: #4aaaa5;
+	text-align: left;
+	font-weight: 900;
+	/*padding: 20px;*/
+
+}
+
+h3{
+	font-family: "Georgia", "Times New Roman", Times, serif ;
+	font-size: 18px;
+	color: #4aaaa5;
+	text-align: center;
+	font-weight: 900;
+	padding: 30px;
+
+}
+form{
+	line-height: 40px;
+}
+input[type=text]{
+	width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
+
+input[type=email]{
+	width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=submit]{
+	width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background: #4aaaa5;
+    color: white;
+}
+
+.portLinks{
+	/*float: left;
+	margin-top:10px;
+	width: 194px;
+    height: 130px;
+    border: 1px solid black;
+    box-sizing: border-box;*/
+    position:relative;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 60px;
+    /*margin-bottom: 20px;*/
+    margin-top: 20px;
+    /*height: 130px;
+    width:194px;*/ 
+
+}
+
+h4{
+	position: relative;
+	background: #4aaaa5 ;
+	padding: 20px;
+	color: white;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	height: 42px;
+	text-align: center
+	width: 188px;
+	bottom: 60px;
+	z-index: 3;
+	margin-bottom: ;
+}
+/*.P1H{
+	
+	width: 75px;
+	height: 75px;
+	margin-left: 45px;
+	margin-right: 45px;
+	background: #4aaaa5;
+	padding: 20px;
+	color: white;
+	position: relative;
+	bottom: 130px;
+	top: 60px;
+	z-index: 3;*/
+
+
+
+
+
+
+/*a{
+	height: 40px;
+	width: 40px;
+	display: inline;
+}*/
+
+footer{
+	clear: both;
+	/*position: absolute;
+    left: 0;
+    bottom: 0;*/
+    height: 100px;
+	width: 100%;
+	background: darkgrey;
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	border-top: 8px solid #4aaaa5;
+	text-align: center;
+	font-size: 12px;
+
+    
+}
+
